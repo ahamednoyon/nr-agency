@@ -1,0 +1,7 @@
+.navbar{
+    background: linear-gradient(to right, #FC904A,#FD5D36);
+}
+
+.navbar a{
+    color: #fff !important;
+}
