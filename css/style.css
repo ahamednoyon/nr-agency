@@ -1,3 +1,10 @@
+/* google fonts */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600&display=swap');
+
+*{
+    font-family: 'Poppins', sans-serif;
+}
+
 .navbar, .home, .wave{
     background: linear-gradient(to right, #FC904A,#FD5D36);
 }
@@ -5,7 +12,7 @@
 
 .navbar-nav li a{
     color: #fff !important;
-    font-size: 18px;
+    font-size: 17px;
     margin-left: 5px;
 }
 
@@ -43,4 +50,18 @@
 .watch-btn i{
     font-size: 20px;
     margin-right: 5px;
+}
+
+.single-service{
+    padding: 0px 10px;
+}
+
+.service-btn{
+    background: linear-gradient(to right, #FC904A,#FD5D36);
+    color: #fff;
+}
+
+.service-btn:hover{
+    background: linear-gradient(to left, #FC904A,#FD5D36);
+    color: #fff;
 }
