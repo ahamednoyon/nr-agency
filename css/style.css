@@ -133,5 +133,6 @@
 }
 
 .map-location{
-    width: 50%;
+    width: 100%;
+    padding: 0px 20px;
 }
