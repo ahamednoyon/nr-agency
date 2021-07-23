@@ -65,3 +65,33 @@
     background: linear-gradient(to left, #FC904A,#FD5D36);
     color: #fff;
 }
+
+.about{
+    background: #F8F9F8;
+}
+
+.single-testi{
+    border-left: 5px solid #FC904A;
+    padding: 0px 20px;
+}
+
+.single-testi span{
+    font-size: 12px;
+}
+
+.social{
+    background: #F8F9F8;
+}
+
+.social-ul{
+    list-style: none;
+}
+
+.social-ul li a img{
+    width: 40px;
+    transition: .3s;
+}
+
+.social-ul li a img:hover{
+    transform: scale(1.09);
+}
