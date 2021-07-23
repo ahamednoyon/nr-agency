@@ -131,3 +131,7 @@
     color: #FC904A;
     box-shadow: 2px 2px 10px lihtgray;
 }
+
+.map-location{
+    width: 50%;
+}
