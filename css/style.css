@@ -75,8 +75,11 @@
     padding: 0px 20px;
 }
 
+.single-testi b{
+    display: block;
+}
 .single-testi span{
-    font-size: 10px;
+    font-size: 12px;
 }
 
 .social, .contact{
